@@ -71,3 +71,13 @@ There were a lot of computation power impediments that didn't allow me to perfor
 1. Download the data. First dataset used from [here](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download). Second dataset used consists of a combination of the first dataset and [this dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download) (I combined them manually, takes less than a minute).
 2. Create an Python environment and use the *requirements.txt* file to install all the required packages.
 3. Run the scripts in order (1->5). The only thing that should be changed are the file locations, which are held in variables, should be very visible and intuitive.
+
+
+## Applied Deep Learning Assignment 3
+
+### How to run the demo web app
+
+1. Install flask in your python environment
+2. Open a terminal inside the folder *demo_web_app*
+3. Run *python app.py* in the terminal
+4. Open the browser address specified in the terminal and play around with the app
